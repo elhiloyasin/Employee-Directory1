@@ -25,7 +25,7 @@
 
 ## REPOSITORY LINK
 
-- ![Repository-Link](https://github.com/danny1215/Danny-Employee-Directory)
+- ![Repository-Link](https://github.com/elhiloyasin/Employee-Directory1)
 
 
 ## SCREENSHOT OF APPLICATION
