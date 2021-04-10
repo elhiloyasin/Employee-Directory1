@@ -2,7 +2,7 @@
 
 
 ## Description
->The purpose of this application is to view an entire employee directory at once for quick access of their information. It is beneficial for an employee for quick filter of the employee by thier first name.
+>The purpose of this application is to view an entire employee directory at once for quick access of their information. It is useful for  the employee to quickly filter of an employee by thier first name.
 
 
 ## Challenges
