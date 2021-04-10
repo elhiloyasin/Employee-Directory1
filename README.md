@@ -21,12 +21,7 @@
 
 ## Deployment Link
 
-- https://elhiloyasin.github.io/Employee-Directory/
-
-
 >[Deployment-Link](https://elhiloyasin.github.io/Employee-Directory/)
-
-
 
 
 ## REPOSITORY LINK
