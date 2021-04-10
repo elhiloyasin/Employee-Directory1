@@ -19,12 +19,12 @@
 >Bootstrap |
 
 
-## DEPLOYMENT LINK
+## Deployment Link
 
 >[Deployment-Link](https://elhiloyasin.github.io/Employee-Directory/)
 
 
-## REPOSITORY LINK
+## Repository Link
 
 >[Repository-Link](https://github.com/elhiloyasin/Employee-Directory1)
 
