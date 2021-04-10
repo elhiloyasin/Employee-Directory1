@@ -19,13 +19,13 @@
 >Bootstrap |
 
 
-## LINK TO THE REPOSITORY
-
-- [Employee-Directory](https://github.com/danny1215/Danny-Employee-Directory)
-
-## LINK TO THE Deployed link
+## Deployment Link
 
 - https://elhiloyasin.github.io/Employee-Directory/
+
+## REPOSITORY LINK
+
+- [Employee-Directory](https://github.com/danny1215/Danny-Employee-Directory)
 
 
 ## SCREENSHOT OF APPLICATION
@@ -33,7 +33,8 @@
 - ![Application-Screenshot](images/employee-directory.png)
 
 
-  ## Contact Me
+## Contact Me
+
 >Visit my Github profile at https://github.com/elhiloyasin.
 
 >Email: elhiloyasin@gmail.com
